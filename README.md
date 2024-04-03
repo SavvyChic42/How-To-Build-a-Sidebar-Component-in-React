@@ -68,3 +68,8 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+Do you need a sidebar navigation menu for your next React.js project? Here I came up with a tutorial on how to create a sidebar menu in React js. Yesterday I was working for one of my clients and his design requires me to create a sidebar navigation menu that can also collapse. So let us see how I created that menu.<br>
+![image](https://github.com/SavvyChic42/How-To-Build-a-Sidebar-Component-in-React/assets/151141927/2deb186f-c329-4cee-b85c-0f3e4c450b8d)
+
+
